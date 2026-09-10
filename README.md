@@ -1,24 +1,64 @@
 # tofuref
 
+[中文版本](./README.cn.md)
+
 TUI for OpenTofu/Terraform provider registry
 
-- **Upstream**: <https://github.com/djetelina/tofuref>
-- **Homepage**: <https://pypi.org/project/tofuref/>
-- **Latest release**: `v1.8.1` (2026-04-12)
-- **Last commit**: 2026-07-23
-- **License**: MIT
-- **Stars**: 28 · **Forks**: 1 · **Open issues**: 16 · **Contributors**: 1
+![tofuref](https://repo.x-cmd.io/tofuref.svg)
 
-## Installation
+## Install
 
 ```sh
 x install tofuref
 ```
 
-See <https://x-cmd.com/install/tofuref> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/djetelina/tofuref>
+- **Homepage**: <https://pypi.org/project/tofuref/>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:18:12Z._
+- **Latest**: `v1.8.1` (2026-04-12)
+- **Last commit**: 2026-07-23
+- **Published**: 2026-04-12T13:50:54Z
+
+## Popularity
+
+- **Stars**: 28 · **Forks**: 1 · **Open issues**: 16 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 11 · **Merged PRs**: 50 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 81
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 360d | 2025-09-15 | 5 | 25 | 0 | 2 | 1 | 34 |
+
+## Code size
+
+Total: **9,202** lines of code across **75** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Svg | 4,923 | 30 | 210 | 30 |
+| Json | 2,500 | 0 | 0 | 6 |
+| Python | 1,699 | 33 | 380 | 29 |
+| Toml | 80 | 1 | 11 | 1 |
+| Markdown | 0 | 1,174 | 385 | 9 |
+
+## Improve this data
+
+Install metadata for tofuref lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tofuref` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tofuref.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:34:42Z._
