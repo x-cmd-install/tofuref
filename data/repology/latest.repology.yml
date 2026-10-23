@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: tofuref
+  binname: tofuref
+  visiblename: tofuref
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: unique
+  summary: TUI for the OpenTofu provider registry
+  maintainers:
+    - jtl@aur
+  licenses:
+    - MIT
